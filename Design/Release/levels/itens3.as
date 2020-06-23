@@ -1,0 +1,1 @@
+private var itensArray:Array = [{x:8288,y:608,obj:25},{x:32,y:672,obj:7},{x:4000,y:672,obj:25},{x:11712,y:1216,obj:25}];
